@@ -5,6 +5,18 @@ CycleSense AI is a Python-based menstrual cycle tracking and analytics dashboard
 
 This project was built to practise Python programming, data analysis, visualization, and prediction evaluation.
 
+Dashboard Preview:
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221113.png>)
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221206.png>)
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221249.png>)
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221421.png>)
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221519.png>)
+![CycleSence AI Dashboard](<Screenshot 2026-10-21 221622.png>)
+
+
+
+
+
 ✨ Features
 
 - 📅 Period start and end date inputs
